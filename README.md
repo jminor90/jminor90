@@ -5,6 +5,13 @@ I consider myself experienced in the following...
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,graphql,jquery,mongodb,mysql,nodejs,py,sequelize)
 
+## Projects I'm Working On
+
+- [Music Junkeez](http://music-junkeez.herokuapp.com/)
+
+- [The Translator](https://jminor90.github.io/the-translator/)
+
+*...also currently revamping a simple Music Theory application*
 
 ## Contact Me
 If you have questions about my experience or my projects feel free to [Email Me](mailto:minor.jbm@gmail.com)
