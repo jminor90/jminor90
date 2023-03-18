@@ -1,4 +1,15 @@
-### Hi there 👋
+## jminor90 - Full Stack Web Developer
+Thank you for visiting!
+
+I consider myself experienced in the following...
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,graphql,jquery,mongodb,mysql,nodejs,py,sequelize)
+
+
+## Contact Me
+If you have questions about my experience or my projects feel free to [Email Me](mailto:minor.jbm@gmail.com)
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jminor90/)
 
 <!--
 **jminor90/jminor90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
