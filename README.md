@@ -1,5 +1,7 @@
 ## jminor90 - Full Stack Web Developer
-Thank you for visiting!
+I enjoy making simple and easy to use web applications in addition to building websites.
+
+In my free time I also like producing music, and playing video games.
 
 I consider myself experienced in the following...
 
@@ -7,17 +9,20 @@ I consider myself experienced in the following...
 
 ## Projects I'm Working On
 
+- [Circle of Fifths](https://jminor90.github.io/circle-of-fifths/)
+
 - [Music Junkeez](http://music-junkeez.herokuapp.com/)
 
 - [The Translator](https://jminor90.github.io/the-translator/)
 
-*...also currently revamping a simple Music Theory application*
+View my [Online Portfolio](https://jminor90.github.io/jminor-react-portfolio/)
 
 ## Contact Me
 If you have questions about my experience or my projects feel free to [Email Me](mailto:minor.jbm@gmail.com)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jminor90/)
 
+Thank you for visiting!
 <!--
 **jminor90/jminor90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
