@@ -11,9 +11,10 @@ I consider myself experienced in the following...
 
 - [Circle of Fifths](https://jminor90.github.io/circle-of-fifths/)
 
+- [The Translator](https://jminor90.github.io/the-translator/) (now being revamped in ReactJs as [The Translator 2](https://jminor90.github.io/the-translator-2/))
+
 - [Music Junkeez](http://music-junkeez.herokuapp.com/)
 
-- [The Translator](https://jminor90.github.io/the-translator/)
 
 View my [Online Portfolio](https://jminor90.github.io/jminor-react-portfolio/)
 
